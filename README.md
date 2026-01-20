@@ -5,6 +5,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sp1r3t&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+<a href="https://media1.tenor.com/m/hCKIWnrHipcAAAAd/winter-arc.gif" target="blank"></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1r3t&layout=compact&hide_title=true&card_width=300)
 
 <h3 align="center">Connect with me: </h4>
