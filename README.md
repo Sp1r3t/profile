@@ -13,6 +13,6 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="mailto: tksusha1973@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/8640/8640695.png" alt="e-mail" height="30" width="40" /> </a>
-<a href="https://t.me/timannst" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="telegram" height="30" width="40" /></a>
+<a href="mailto: tksusha1973@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/465500/mail.svg" alt="e-mail" height="30" width="40" /> </a>
+<a href="https://t.me/timannst" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/sp1rett" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" height="30" width="40" /></a>
