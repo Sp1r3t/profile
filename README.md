@@ -8,7 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1r3t&layout=compact&hide_title=true&card_width=300)
 
-<p align="center">
 🔗 &nbsp;**Connect with me**
 <p align="center">
 <a href="https://t.me/timannst" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="40" /></a>
