@@ -18,7 +18,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Sp1r3t&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Tim's Stats" />
     </td>
     <td>
-      <img src="https://media1.tenor.com/m/hCKIWnrHipcAAAAd/winter-arc.gif" alt="Winter Arc" width="300"/>
+      <img src="https://media.tenor.com/65bUl5-gbL0AAAAi/baby-ai-meme.gif" alt="baby" width="300"/>
     </td>
   </tr>
 </table>
@@ -30,9 +30,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://t.me/timannst" target="_blank">
-    <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="40"/>
-  </a>
+    <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="40"/></a>
   <a href="https://discordapp.com/users/TVOY_ID" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" height="30" width="40"/>
-  </a>
+    <img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" height="30" width="40"/></a>
 </p>
