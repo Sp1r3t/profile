@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fl0mast3r&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Tim's Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1r3t&layout=compact&hide=html,css&card_width=300" />
     </td>
     <td>
       <img src="https://media.tenor.com/65bUl5-gbL0AAAAi/baby-ai-meme.gif" alt="baby" width="300"/>
