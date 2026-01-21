@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1r3t&layout=compact&hide=html,css&card_width=300" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sp1r3t&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Tim's Stats" />
     </td>
     <td>
       <img src="https://media.tenor.com/65bUl5-gbL0AAAAi/baby-ai-meme.gif" alt="baby" width="300"/>
@@ -24,7 +24,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1r3t&layout=compact&hide_title=true&card_width=300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1r3t&layout=compact&hide=html,css&card_width=300" alt="Top Languages" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
